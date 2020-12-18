@@ -1,0 +1,84 @@
+
+
+body {
+    background-color: grey;}
+    
+    a {
+        text-decoration: none;
+        color: inherit;
+	}
+	
+	.jelly {
+		width: 10%;
+		display: block;
+		margin: 10px auto;
+	}
+
+ul {
+	
+	
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 10px 10px;
+	font-family: Helvetica, sans-serif;
+	
+	
+}
+li {
+	color:black;
+	border: 5px solid black;
+	display: inline;
+	margin: 10px 5px;
+	padding: 5px 5px;
+	border-radius: 5px;
+	text-align: center;
+	
+	
+	
+}
+
+h1 {
+	color: red;
+	font-family: Helvetica, sans-serif;
+	background-color: orange;
+	margin: 50px auto;
+	text-align: center;
+	border-radius: 10px;
+	border: 5px solid red;
+    padding: 0px 0px;
+    width: 75%;
+    display: block;
+   
+}
+
+.circle {
+    display: block;
+	margin: auto auto;
+}
+
+p {
+	color: black;
+	text-align: center;
+	background-color: DimGrey;
+	border-radius: 10px;
+	font-family: Helvetica;
+	padding: 50px 0px;
+    border: 5px solid black;
+    margin: 10px 100px;
+}
+
+
+.bwbeard {
+	display: block;
+	margin: 20px auto;
+}
+
+.rowboat {
+	display: block;
+	margin: 20px auto;
+	border: 5px solid black;
+	border-radius: 10px;
+	padding: 20px 20px;
+	background-color: beige;
+}
